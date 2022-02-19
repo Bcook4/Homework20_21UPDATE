@@ -1,0 +1,170 @@
+.hero {
+    display: flex;
+}
+.hero-text {
+    width: 500px;
+    height: 230px;
+    font-weight: bold;
+    font-size: 96px;
+    color: #800080;
+    float: left;
+}
+.hero-image {
+    float: right;
+}
+.problem-solving {
+    max-width: 1440px;
+    display: flex;
+    background-color: #800080;
+
+
+}
+.the-problem {
+    width: 573px;
+    height: 115px;
+    font-size: 64px;
+    float: left;
+    color: #FFFFFF;
+}
+.problem-description {
+    font-size: 36px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.problem-image {
+    float: right;
+    width: 614px;
+    height: 459px;
+    padding: 10px;
+}
+.solution {
+    display: flex;
+    background-color: #800080;
+}
+.solution-header {
+    width: 573px;
+    font-size: 64px;
+    float: right;
+    text-align: left;
+    color: #FFFFFF;
+}
+.solution-description {
+    font-size: 36px;
+    float: right;
+    text-align: left;
+    color: #FFFFFF;
+}
+.solution-image {
+    background-color: #800080;
+    float: left;
+    width: 614px;
+    height: 459px;
+    padding: 20px;
+}
+.the-users {
+    display: flex;
+    background-color: #FFFFFF;
+
+}
+.data {
+    display: flex;
+    background-color: #800080;
+}
+.user-persona {
+    display: flex;
+    background-color: #FFFFFF;
+}
+.changes-we-made {
+    display: flex;
+    background-color: #FFFFFF;
+}
+.knowing-users-header {
+    color: #800080;
+    font-size: 72px;
+    float: left;
+    width: 526px;
+    height: 127px;
+}
+.knowing-users-desc{
+    display: flex;
+    color: black;
+    float: left;
+    text-align: left;
+    width: 554px;
+    height: 430px;
+}
+.knowing-users-text {
+    display: flex;
+
+}
+.notes-image {
+    display: flex;
+    width: 1185px;
+    height: 1032.18px;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: "Noto-Serif";
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  img {
+    width: 100%;
+  }
+  body {
+    height: 100vh;
+    margin: 0;
+    font-family: "Noto-Serif";
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  .nav-container {
+    background: #800080;
+  }
+  .nav-container a {
+    color: white;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+  }
+  header .logo {
+    color: white;
+    font-weight: bold;
+  }
+  header nav ul {
+    display: flex;
+  }
+  header nav ul a {
+    display: block;
+    padding: 0 1em;
+  }
+  
+  .social-header, .hero-design {
+    display: none;
+  }
